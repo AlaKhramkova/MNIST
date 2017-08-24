@@ -4,11 +4,6 @@ Created on Wed Aug  2 18:01:31 2017
 
 @author: Alla.Khramkova
 """
-# Some utility functions we need for the class.
-# For the class Data Science: Practical Deep Learning Concepts in Theano and TensorFLow
-# https://www.udemy.com/data-science-deep-learning-in-theano-tensorflow
-
-# Note: run this from the current folder it is in.
 
 import keras
 from keras.layers import Dense
