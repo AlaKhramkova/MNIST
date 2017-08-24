@@ -1,2 +1,2 @@
 # Python
-Python examples
+Digit Recognition examples
